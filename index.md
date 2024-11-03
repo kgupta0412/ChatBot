@@ -7,8 +7,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00DJW000006ylwl',
-				'GitHub',
-				'https://bordgaisenergyeandu--kavydev.sandbox.my.site.com/ESWGitHub1730474860062',
+				'github_io',
+				'https://bordgaisenergyeandu--kavydev.sandbox.my.site.com/ESWgithubio1730639066446',
 				{
 					scrt2URL: 'https://bordgaisenergyeandu--kavydev.sandbox.my.salesforce-scrt.com'
 				}
@@ -18,6 +18,6 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://bordgaisenergyeandu--kavydev.sandbox.my.site.com/ESWGitHub1730474860062/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://bordgaisenergyeandu--kavydev.sandbox.my.site.com/ESWgithubio1730639066446/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 </body>
 </html>
