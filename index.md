@@ -1,14 +1,14 @@
 <html> 
+	12/11/2024
 <body>
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
-
 			embeddedservice_bootstrap.init(
 				'00DJW000006ylwl',
-				'github_io',
-				'https://bordgaisenergyeandu--kavydev.sandbox.my.site.com/ESWgithubio1730639066446',
+				'GitHub_com',
+				'https://bordgaisenergyeandu--kavydev.sandbox.my.site.com/ESWGitHubcom1731266266683',
 				{
 					scrt2URL: 'https://bordgaisenergyeandu--kavydev.sandbox.my.salesforce-scrt.com'
 				}
@@ -18,6 +18,6 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://bordgaisenergyeandu--kavydev.sandbox.my.site.com/ESWgithubio1730639066446/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://bordgaisenergyeandu--kavydev.sandbox.my.site.com/ESWGitHubcom1731266266683/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 </body>
 </html>
