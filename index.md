@@ -1,4 +1,11 @@
 <html>
+<head>
+<a id="liveagent_button_online_573JW0000014cNt" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('573JW0000014cNt')"><!-- Online Chat Content --></a><div id="liveagent_button_offline_573JW0000014cNt" style="display: none;"><!-- Offline Chat Content --></div><script type="text/javascript">
+if (!window._laq) { window._laq = []; }
+window._laq.push(function(){liveagent.showWhenOnline('573JW0000014cNt', document.getElementById('liveagent_button_online_573JW0000014cNt'));
+liveagent.showWhenOffline('573JW0000014cNt', document.getElementById('liveagent_button_offline_573JW0000014cNt'));
+});</script>
+</head>
 <body>
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
