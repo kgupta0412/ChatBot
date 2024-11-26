@@ -22,8 +22,5 @@
 </script>
 <script type='text/javascript' src='https://bordgaisenergyeandu--kavydev.sandbox.my.site.com/ESWWebSup1732639049680/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
-
-
-
 </body>
 </html>
